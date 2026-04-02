@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+processed/
+*.m4a
+*.wav
+*.mp3
+*.docx
+!0.docx

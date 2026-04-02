@@ -1,0 +1,32 @@
+Only use information mentioned by the clinician in the provided transcript.
+
+FORMAT REQUIREMENTS:
+- Use **Markdown** for all headings.
+- Bold the main section titles exactly as:
+  **Subjective**
+  **Objective**
+  **Assessment**
+  **Plan**
+
+---------------------------------------
+{{TRANSCRIPT}}
+---------------------------------------
+
+Create a Subjective portion of the note in 2-5 bullet points and describe the patient's self-report of their status in terms of their current condition since the last session. Include complaints, changes in functional impairment levels, gains, home exercise program (HEP) compliance, pain levels and activity tolerance if mentioned. Additionally, include any relevant medical history mentioned by the patient. Try and use the patient's own words when you can.
+
+Create an Objective portion of the note that includes specific treatment details, measurements of strength and range of motion (ROM), and pain levels in 3-6 bullet points. Summarize and calculate the percentage change from initial evaluation to now involved following each ROM statement.
+1. Begin with a summary of the patient's strength measurements, including grip and pinch strength for both left and right sides, formatted as "Grip: Left/Right [value], Pinch: Left/Right [value]."
+2. Follow with a detailed account of wrist flexion and extension measurements for both sides, formatted as "Wrist Flexion: Left/Right [value], Wrist Extension: Left/Right [value]."
+3. Include thumb measurements for flexion to the base of the small finger, CMC extension, and IP flexion, formatted as "Thumb Flex to Base of SF: [value], Extension CMC: [value], Flexion IP: [value]."
+4. Document the patient's pain level on a scale of 1-10, formatted as "Pain: [value]."
+5. Conclude with a list of treatments provided, including specific codes and durations, formatted as "Manual Therapy [code] x [number], [duration]." Include any additional treatments or education provided, ensuring clarity and specificity. 
+
+Create an Assessment portion of the note that includes details on patient progress, pain levels, DASH score, functional improvements, and recommendations for future treatment in a structured format of length 3-5 sentences.
+
+Create a Plan portion of the note that includes recommendations, prognosis, and home exercise program (HEP) in a structured format of length 2-3 sentences. Use bullet points for each component of the plan for clarity and organization. 
+
+Special Replacements without including the quoted shorthand
+•	“TherEx30” to “Therapeutic Exercises for 30 minutes 97110” under Manual Therapy
+
+
+
