@@ -15,4 +15,4 @@ git clone https://github.com/asaraog/soapgen.git
 cd soapgen
 python3 watcher.py
 ```
-Record and add audio file to local environment for testing. See my [website](https://saraogee.com/SOAPgen/) for all code. 
+Record and add audio file to local environment for testing. See my [website](https://saraogee.com/SOAPgen/). 
